@@ -45,11 +45,13 @@
     flex-wrap: wrap;
     gap: 20px;
 }
-.search{
-    padding: 10px;
-}
+
 .res-logo{
     width: 100%;
 
+}
+.filter-btn{
+    padding: 8px;
+    margin: 8px;
 }
 

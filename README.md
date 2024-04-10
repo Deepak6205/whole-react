@@ -77,3 +77,8 @@ so remember bidefault a file can export only one thing.
 import {useState} from "react";
 ```
 2.useEffect()
+
+# There are two types of routing in web apps
+
+-Client side routing 
+-Server side routing
